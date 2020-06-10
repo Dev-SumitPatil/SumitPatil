@@ -121,7 +121,8 @@ section> p{
 	}
 
 	.col-md-6 {
-		width: 50.00%;
+        width: 50.00%;
+        
 	}
 
 	.col-md-7 {
@@ -137,7 +138,7 @@ section> p{
 	}
 
 	.col-md-10 {
-		width: 83.33%%
+		width: 83.33%
 	}
 
 	.col-md-11 {
@@ -146,9 +147,9 @@ section> p{
 
 	.col-md-12 {
 		width: 100%;
-	}
-	.name3{
-            width:180%;
+    }
+    .name3{
+            width:188%;
         }
 }
 
