@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+#nav-list > li {
+    text-align: center;
+}
+body{
+    background-color:#eed4cc ;
+}
+
+div section {
+    margin: 10px;
+    padding: 10px;
+}
+#section-1{
+    background-color: #ff78ae;
+}
+
+#section-2 {
+    background-color: #b2fcff;
+}
+
+#section-3 {
+    background-color: #f5ed80;
+}
+
+#text > h3 {
+    margin-bottom: 15px;
+}
+
+#header-nav .navbar-brand {
+    position: absolute;
+    left: 10px;
+}
