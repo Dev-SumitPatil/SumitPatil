@@ -1,6 +1,8 @@
+Begineer to Advanced projects from day 1 to day 100.
+Projects are based on the topics covered on each day!
 1)Day 1:
    Topics-print() function,string manipulation,input() function,variables,
-   Project-Band Name Generator
+   Project-Band Name Generator(simple)
 2)
        
   
